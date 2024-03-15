@@ -27,8 +27,5 @@ public class UsingThrowThrows {
 		catch(Exception e){
 			System.out.println("Exception");
 		}
-		
-
 	}
-
 }
